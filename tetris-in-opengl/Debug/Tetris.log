@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Note: including lib: glut32.lib
+C:\Tetris in OpenGL\tetris-in-opengl\src\Main.cpp(278,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tetris.vcxproj -> C:\Tetris in OpenGL\tetris-in-opengl\Debug\Tetris.exe
+  0 File(s) copied

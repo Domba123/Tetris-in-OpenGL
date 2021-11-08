@@ -1,0 +1,2 @@
+C:\Tetris in OpenGL\tetris-opengl-main\Debug\Tetris.exe
+C:\Tetris in OpenGL\tetris-in-opengl\Debug\Tetris.exe
